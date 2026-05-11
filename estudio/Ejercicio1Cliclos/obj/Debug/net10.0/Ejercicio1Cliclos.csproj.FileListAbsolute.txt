@@ -1,0 +1,15 @@
+C:\intro prog\estudio\Ejercicio1Cliclos\bin\Debug\net10.0\Ejercicio1Cliclos.exe
+C:\intro prog\estudio\Ejercicio1Cliclos\bin\Debug\net10.0\Ejercicio1Cliclos.deps.json
+C:\intro prog\estudio\Ejercicio1Cliclos\bin\Debug\net10.0\Ejercicio1Cliclos.runtimeconfig.json
+C:\intro prog\estudio\Ejercicio1Cliclos\bin\Debug\net10.0\Ejercicio1Cliclos.dll
+C:\intro prog\estudio\Ejercicio1Cliclos\bin\Debug\net10.0\Ejercicio1Cliclos.pdb
+C:\intro prog\estudio\Ejercicio1Cliclos\obj\Debug\net10.0\Ejercicio1Cliclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\intro prog\estudio\Ejercicio1Cliclos\obj\Debug\net10.0\Ejercicio1Cliclos.AssemblyInfoInputs.cache
+C:\intro prog\estudio\Ejercicio1Cliclos\obj\Debug\net10.0\Ejercicio1Cliclos.AssemblyInfo.cs
+C:\intro prog\estudio\Ejercicio1Cliclos\obj\Debug\net10.0\Ejercicio1Cliclos.csproj.CoreCompileInputs.cache
+C:\intro prog\estudio\Ejercicio1Cliclos\obj\Debug\net10.0\Ejercicio1Cliclos.sourcelink.json
+C:\intro prog\estudio\Ejercicio1Cliclos\obj\Debug\net10.0\Ejercicio1Cliclos.dll
+C:\intro prog\estudio\Ejercicio1Cliclos\obj\Debug\net10.0\refint\Ejercicio1Cliclos.dll
+C:\intro prog\estudio\Ejercicio1Cliclos\obj\Debug\net10.0\Ejercicio1Cliclos.pdb
+C:\intro prog\estudio\Ejercicio1Cliclos\obj\Debug\net10.0\Ejercicio1Cliclos.genruntimeconfig.cache
+C:\intro prog\estudio\Ejercicio1Cliclos\obj\Debug\net10.0\ref\Ejercicio1Cliclos.dll

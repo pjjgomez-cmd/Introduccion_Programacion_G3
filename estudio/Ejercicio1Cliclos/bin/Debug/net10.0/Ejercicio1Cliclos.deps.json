@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ejercicio1Cliclos/1.0.0": {
+        "runtime": {
+          "Ejercicio1Cliclos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio1Cliclos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

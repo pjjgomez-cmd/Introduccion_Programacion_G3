@@ -1,0 +1,15 @@
+C:\intro prog\estudio\Ejercicio2Ciclos\bin\Debug\net10.0\Ejercicio2Ciclos.exe
+C:\intro prog\estudio\Ejercicio2Ciclos\bin\Debug\net10.0\Ejercicio2Ciclos.deps.json
+C:\intro prog\estudio\Ejercicio2Ciclos\bin\Debug\net10.0\Ejercicio2Ciclos.runtimeconfig.json
+C:\intro prog\estudio\Ejercicio2Ciclos\bin\Debug\net10.0\Ejercicio2Ciclos.dll
+C:\intro prog\estudio\Ejercicio2Ciclos\bin\Debug\net10.0\Ejercicio2Ciclos.pdb
+C:\intro prog\estudio\Ejercicio2Ciclos\obj\Debug\net10.0\Ejercicio2Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\intro prog\estudio\Ejercicio2Ciclos\obj\Debug\net10.0\Ejercicio2Ciclos.AssemblyInfoInputs.cache
+C:\intro prog\estudio\Ejercicio2Ciclos\obj\Debug\net10.0\Ejercicio2Ciclos.AssemblyInfo.cs
+C:\intro prog\estudio\Ejercicio2Ciclos\obj\Debug\net10.0\Ejercicio2Ciclos.csproj.CoreCompileInputs.cache
+C:\intro prog\estudio\Ejercicio2Ciclos\obj\Debug\net10.0\Ejercicio2Ciclos.sourcelink.json
+C:\intro prog\estudio\Ejercicio2Ciclos\obj\Debug\net10.0\Ejercicio2Ciclos.dll
+C:\intro prog\estudio\Ejercicio2Ciclos\obj\Debug\net10.0\refint\Ejercicio2Ciclos.dll
+C:\intro prog\estudio\Ejercicio2Ciclos\obj\Debug\net10.0\Ejercicio2Ciclos.pdb
+C:\intro prog\estudio\Ejercicio2Ciclos\obj\Debug\net10.0\Ejercicio2Ciclos.genruntimeconfig.cache
+C:\intro prog\estudio\Ejercicio2Ciclos\obj\Debug\net10.0\ref\Ejercicio2Ciclos.dll
